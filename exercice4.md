@@ -1,20 +1,26 @@
-nslookup -type=ns
+nslookup domain.com
 
-nslookup -type=ns www.google.com/
-nslookup -type=ns www.amazon.fr
-nslookup -type=ns www.facebook.com
-nslookup -type=ns www.msn.com
-nslookup -type=ns www.orange.fr
-nslookup -type=ns www.lequipe.fr
+nslookup google.com
+nslookup amazon.fr
+nslookup facebook.com
+nslookup msn.com
+nslookup orange.fr
+nslookup lequipe.fr
 
-www.google.com/
+google.com
+142.250.201.174
 
-www.amazon.fr
+amazon.fr
+52.95.116.113
 
-www.facebook.com
+facebook.com
+185.60.219.35
 
-www.msn.com
+msn.com
+204.79.197.219
 
-www.orange.fr
+orange.fr
+193.252.133.20
 
-www.lequipe.fr
+lequipe.fr
+35.186.248.227
